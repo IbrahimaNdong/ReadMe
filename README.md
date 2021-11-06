@@ -7,7 +7,10 @@ Metasploit is a security framework that comes with many tools for system exploit
 What problem does the application solve?
 
 # Use cases:
-Metasploit has a vast amount of use cases which are: IT can be use to scan target vulnerabilities, it can be used for DDOS attacks, and also can be used for carrying out a SYN scan
+Metasploit has a vast amount of use cases which are:<br>  
+----->Metasploit can be use to scan target vulnerabilities<br> 
+----------->Metasploit can be used for DDOS attacks<br> 
+----->Metasploit can also be used for carrying out a SYN scan<br> 
 
 # Installation:
 First we Go to WWW.Metasploit.com to Download the software 
@@ -48,7 +51,6 @@ Is this software any good.  What are its pros and cons.  Can you see yourself us
 
 
 # References:
-https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers; 
-https://www.youtube.com/watch?v=kd1KuTFtN_g;
-https://linuxhint.com/metasploit_usage_examples/
-https://www.youtube.com/watch?v=K7y_-JtpZ7I
+https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers<br>https://www.youtube.com/watch?v=kd1KuTFtN_g<br> 
+https://linuxhint.com/metasploit_usage_examples/<br> 
+https://www.youtube.com/watch?v=K7y_-JtpZ7I<br> 
