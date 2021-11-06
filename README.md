@@ -1,22 +1,24 @@
 # ReadMe
 # How to install Metasploit using kali / and it's use cases 
 
-Name of the Application: Metasploit 
+Name of the Application: -----------Metasploit------------- 
 # Synopsis:
 Metasploit is a security framework that comes with many tools for system exploit and testing. It helps security teams and people to learn, practice, improving security awareness also helps defenders to always stays one step ahead of attackers. Overall it helps teams with their pen testing skills and awareness and because it is virtual it is very accessible and very cost efficient, almost anyone can have access to it.
 What problem does the application solve?
+
 # Use cases:
-Metasploit has a vast amount of use cases which are:
---Metasploit can be use to scan target vulnerabilities 
-----Metasploit can be use for DDOS attacks 
-------Metaspoit can be used for carrying out a SYN scan
+Metasploit has a vast amount of use cases which are: IT can be use to scan target vulnerabilities, it can be used for DDOS attacks, and also can be used for carrying out a SYN scan
+
+# Installation:
+First we Go to WWW.Metasploit.com to Download the software 
+Detailed Installation Process.
+Highlight in red, any problems you had, and document how you fixed the problem. 
 
 # Demo:
 Record a live demo of it working. 
-Add youtube video. 
-# Installation:
-Detailed Installation Process.
-Highlight in red, any problems you had, and document how you fixed the problem.  
+Add youtube video
+
+
 
 # Final Review:
 Is this software any good.  What are its pros and cons.  Can you see yourself using this tool in the future.  What did you learn from using this software? 
