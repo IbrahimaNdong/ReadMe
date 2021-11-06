@@ -11,7 +11,17 @@ Metasploit has a vast amount of use cases which are: IT can be use to scan targe
 
 # Installation:
 First we Go to WWW.Metasploit.com to Download the software 
-Detailed Installation Process.
+![Screenshot 2021-10-25 034045](https://user-images.githubusercontent.com/90642593/140598136-12240ebc-1839-44a9-90b7-0088af2a8ed8.jpg)
+
+Then copy the script to install the package if it is not already installed on the OS
+![Screenshot 2](https://user-images.githubusercontent.com/90642593/140598165-8a485523-86e5-433e-9a7e-1b6b8b8afb73.jpg)
+
+
+
+
+
+
+
 Highlight in red, any problems you had, and document how you fixed the problem. 
 
 # Demo:
