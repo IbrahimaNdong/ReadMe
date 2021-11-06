@@ -48,7 +48,7 @@ Is this software any good.  What are its pros and cons.  Can you see yourself us
 
 
 # References:
-https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers, 
-https://www.youtube.com/watch?v=kd1KuTFtN_g
+https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers; 
+https://www.youtube.com/watch?v=kd1KuTFtN_g;
 https://linuxhint.com/metasploit_usage_examples/
 https://www.youtube.com/watch?v=K7y_-JtpZ7I
