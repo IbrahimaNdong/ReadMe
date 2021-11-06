@@ -6,7 +6,10 @@ Name of the Application: Metasploit
 Metasploit is a security framework that comes with many tools for system exploit and testing. It helps security teams and people to learn, practice, improving security awareness also helps defenders to always stays one step ahead of attackers. Overall it helps teams with their pen testing skills and awareness and because it is virtual it is very accessible and very cost efficient, almost anyone can have access to it.
 What problem does the application solve?
 # Use cases:
-Give 3 use case for the software.
+Metasploit has a vast amount of use cases which are:
+--Metasploit can be use to scan target vulnerabilities 
+----Metasploit can be use for DDOS attacks 
+------Metaspoit can be used for carrying out a SYN scan
 
 # Demo:
 Record a live demo of it working. 
