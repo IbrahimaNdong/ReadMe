@@ -21,7 +21,8 @@ Then we can go in metasploit
 ![Sht 6](https://user-images.githubusercontent.com/90642593/140599574-b68d0555-50b3-482c-9843-48769ad2415c.jpg)
 # Wecome To Metasploit Console
 ![sht 7](https://user-images.githubusercontent.com/90642593/140599594-225412fc-8b86-45e0-b235-b583cef0141d.jpg)
-
+We can also access metasploit thorugh the command line with "sudo msfconsole"
+![sht 8](https://user-images.githubusercontent.com/90642593/140599993-37d59f53-8047-4f8d-877b-45cfc22cfa84.jpg)
 
 
 
