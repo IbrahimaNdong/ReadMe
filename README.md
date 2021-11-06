@@ -16,7 +16,12 @@ First we Go to WWW.Metasploit.com to Download the software
 Then copy the script to install the package if it is not already installed on the OS
 ![Screenshot 2](https://user-images.githubusercontent.com/90642593/140598165-8a485523-86e5-433e-9a7e-1b6b8b8afb73.jpg)
 
-After that we sign in to Kali Linux and login as Root and run/paste the command we copied from WWW.Metasploit.com 
+After that we sign in to Kali Linux and login as Root and run/paste the command we copied from WWW.Metasploit.com to install the metasploit 
+Then we can go in metasploit
+![Sht 6](https://user-images.githubusercontent.com/90642593/140599574-b68d0555-50b3-482c-9843-48769ad2415c.jpg)
+# Wecome To Metasploit Console
+![sht 7](https://user-images.githubusercontent.com/90642593/140599594-225412fc-8b86-45e0-b235-b583cef0141d.jpg)
+
 
 
 
