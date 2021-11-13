@@ -32,13 +32,18 @@ We can also access metasploit thorugh the command line with "sudo msfconsole"
 Highlight in red, any problems you had, and document how you fixed the problem. 
 
 # Demo:
-Record a live demo of it working. 
-Add youtube video
+
+https://user-images.githubusercontent.com/90642593/141659596-29ed5cce-53d1-4e20-ba6e-d5e9602fd4ad.mp4
+
 
 
 
 # Final Review:
-Is this software any good.  What are its pros and cons.  Can you see yourself using this tool in the future.  What did you learn from using this software? 
+This software is very good, very educational 
+Is this software any good.
+What are its pros and cons. 
+Can you see yourself using this tool in the future.  
+What did you learn from using this software? 
 
 
 
