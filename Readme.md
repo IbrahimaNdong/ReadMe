@@ -1,5 +1,9 @@
 # MetaSploit: Exploiting the Weak 
 #add versions 
+We are using Kali-Linux-2021.3-vbox-amd64 <br> 
+And Metasploitable2 (Linux)
+
+
 # How to install Metasploit using kali / and it's use cases 
 
 Name of the Application: -----------Metasploit------------- 
