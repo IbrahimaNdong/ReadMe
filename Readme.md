@@ -1,5 +1,4 @@
 # MetaSploit: Exploiting the Weak 
-#add versions 
 We are using Kali-Linux-2021.3-vbox-amd64 <br> 
 And Metasploitable2 (Linux)
 
