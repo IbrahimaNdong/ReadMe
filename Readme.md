@@ -49,11 +49,13 @@ https://user-images.githubusercontent.com/90642593/141659596-29ed5cce-53d1-4e20-
 
 
 # Final Review:
-This software is very good, very educational 
-Is this software any good.
-What are its pros and cons. 
-Can you see yourself using this tool in the future.  
-What did you learn from using this software? 
+This software is very versitile. The metasploit framework is extremely extensive on the different types of devices and the different versions that are available to be exploited for this reason it is one of the most used penetration tools. 
+
+What are its pros and cons? This program is in theory easy to use until its not :) some expoits require prerequisites that make it a little tedious to install and get working but for the most part its a very easy to use interface and the sheer amount of exploits that are available will leave anyone from script kiddies to professional penetration hackers satisfied. 
+
+Can you see yourself using this tool in the future? We most definitly will see ourselves using this program in the future if it will be to use in a penetration test or even do a black hat side gig that will make us millions. 
+
+What did you learn from using this software? Using this software on a more regular basis has helped us understand the tool alot more, being able to understand the process of multiple exploits and the differences that are required to get each one working was a very positive learning experience essentially adding to our expertise on how to manipulate this powerful tool.
 
 
 
