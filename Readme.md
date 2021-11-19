@@ -35,7 +35,7 @@ We can also access metasploit thorugh the command line with "sudo msfconsole"
 
 Highlight in red, any problems you had, and document how you fixed the problem. 
 
-# Erros We Encountered
+# Errors We Encountered
 ![hacking windows error ](https://user-images.githubusercontent.com/90642593/141885704-2719df82-e9f5-4afa-92f6-652d34b7b3e4.jpg)
 ![hacking windows second error ](https://user-images.githubusercontent.com/90642593/141885718-f2d910b2-c4f8-4785-b6ab-5e0d9e4e7f40.jpg) <br>
 Both of these errors we encountered had something to do with the versions of windows we was trying to hack and also had something to do with VMware so we decided to switch everything to Virtual Box and BOOM-SHAKA-LAKA, everything is working now just fine 
