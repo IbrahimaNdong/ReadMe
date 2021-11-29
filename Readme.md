@@ -12,7 +12,7 @@ What problem does the application solve?
 
 # Use cases:
 Metasploit has a vast amount of use cases which are:<br>  
------>Metasploit can be use to scan target vulnerabilities<br> 
+----->Metasploit can be used to scan target vulnerabilities<br> 
 ----------->Metasploit can be used for DDOS attacks<br> 
 ----->Metasploit can also be used for carrying out a SYN scan<br> 
 
