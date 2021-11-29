@@ -6,7 +6,8 @@ And Metasploitable2 (Linux)
 # How to install Metasploit using kali / and it's use cases 
 
 Name of the Application: -----------Metasploit------------- 
-# Synopsis:
+# Synopsis:![Kali picutre](https://user-images.githubusercontent.com/4381313/143923837-190bfa68-c93e-44e5-a665-50944c21aa05.png)
+
 Metasploit is a security framework that comes with many tools for system exploit and testing. It helps security teams and people to learn, practice, improving security awareness also helps defenders to always stays one step ahead of attackers. Overall it helps teams with their pen testing skills and awareness and because it is virtual it is very accessible and very cost efficient, almost anyone can have access to it.
 What problem does the application solve?
 
