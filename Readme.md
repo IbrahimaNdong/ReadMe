@@ -18,6 +18,8 @@ Metasploit has a vast amount of use cases which are:<br>
 ----------->Metasploit can be used for DDOS attacks<br> 
 ----->Metasploit can also be used for carrying out a SYN scan<br> 
 
+We will be using an MetaSploit exploit: 
+This  exploit is a malicious backdoor that was added to the VSFTPD download archive. This backdoor was introduced into the vsftpd-2.3.4.tar.gz archive
 # Installation:
 First we Go to WWW.Metasploit.com to Download the software 
 ![Screenshot 2021-10-25 034045](https://user-images.githubusercontent.com/90642593/140598136-12240ebc-1839-44a9-90b7-0088af2a8ed8.jpg)
